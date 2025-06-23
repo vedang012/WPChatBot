@@ -61,5 +61,5 @@ If real-time testing isn't possible, a short demo video has been provided showca
 
 ## 🙋 About Me
 
-Built with ❤ by *Vedang Solaskar*  
+Built with ❤ by *Vedang*  
 Feel free to reach out for feedback, questions, or future collaboration!
